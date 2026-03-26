@@ -1,0 +1,14 @@
+********* Herramientas a Utilizar********
+
+angular 
+node
+nest js 
+supabase 
+firebase  
+mongo db 
+
+////////angular
+Cli - consola de conmandos  ng 
+sin server side rendering (cunado lo instalas)
+
+Contras : nos genera bastante peso 

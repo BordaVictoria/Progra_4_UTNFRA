@@ -9,6 +9,41 @@ mongo db
 
 ////////angular
 Cli - consola de conmandos  ng 
+ng new nombreee
 sin server side rendering (cunado lo instalas)
 
-Contras : nos genera bastante peso 
+Contras : nos genera bastante peso , modo de desarrollo , te rompe la memoria
+
+Ojo que si pones estilos , varios en la config ,el ultimo te lo pisa
+Bootstrap necesitas importar el sript tambien 
+Angular mat no 
+
+package-lock.json  : todo al detalle 
+
+Package.json :
+ personalizamos los scripts 
+ depdendencias , vamos a necesitar un par mas 
+
+
+tsconfig.app.json para ver la config de typescript
+
+src-app
+funcioanmiento de la app 
+config de typescript 
+
+
+el main levanta el ts o js , puertita de entrada , bootsrap aplication ->arranca la app 
+
+App ,  nuestro componente por la santa trinidad .css.html.ts // el spect es para hacer test unitario 
+
+Con respecto a los estios , app.css podemos definirlos solo para los componentes  el style.css que biene desde src es para globlal 
+GANA el mas cercano a el elemento ,por encapsulamiento shaw udon 
+
+
+
+SRC -
+Index.html // ese l unico que se carga , y de ahi va navegando entre los compoonentes SAP 
+
+El html del santo grial se usa como buena practica , a menos que sea de una libreria que seguro es chiquito
+template url mata template
+

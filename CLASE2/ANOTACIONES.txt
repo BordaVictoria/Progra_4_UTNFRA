@@ -1,0 +1,16 @@
+
+<!-- <router-outlet /> -->
+ es la que te maneja el ruteo  segun lo que te da la url puesta en el navegador 
+
+
+ // Router link active ,para ponerlo lindo el activo 
+
+ le pasas al constructor , el privte router y ahi podes hacer oncontact click y con el navigae del router en el html y pasar un query
+
+ le pasas al constructor route:activatedRoute e implementas OnInit
+
+ route.paramMap  este lo transforma en un objeto tipado alque le podes acceder metodos
+
+ un get un has o lo que pinte 
+
+ queryparam  te devuelve un array clave valor ,  a mi me gusta mas el objeto tipado 
